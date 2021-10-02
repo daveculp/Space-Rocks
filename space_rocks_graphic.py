@@ -633,7 +633,7 @@ bang_large = pygame.mixer.Sound("bangLarge.wav")
 extra_ship_sound = pygame.mixer.Sound("extraShip.wav")
 extra_ship_sound.set_volume(1)
 
-game_music = pygame.mixer.music.load('music.wav')
+game_music = pygame.mixer.music.load('music.ogg')
 thrust_sound = pygame.mixer.Sound("thrust.wav")
 thrust_sound.set_volume(1)
 
